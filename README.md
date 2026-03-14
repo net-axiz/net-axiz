@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🛠️ System Architect & Network Researcher
 
-<!--
-**net-axiz/net-axiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 The Hybrid Vision
+I am a dedicated student and developer focused on the intersection of **Systems Programming, Cloud Infrastructure, and Network Security**. My goal is to bridge the gap between academic research and industrial implementation.
 
-Here are some ideas to get you started:
+- 🎓 **Academic Path:** Currently pursuing a B.Sc., with long-term goals for a Ph.D. in Systems/Networking.
+- 🛡️ **Core Interests:** Traffic analysis and kernel-level optimizations.
+- 🧬 **Secondary Focus:** Computational Biology and Bioinformatics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Current Projects & Research
+- **Traffic Anomaly Detection:** Building a DFA-based scoring engine with Machine Learning to identify irregularities in TCP/UDP streams.
+- **Linux Tinkering:** Customizing `Ubuntu` environments and automating system debloating for performance and privacy.
+
+---
+
+### 🔍 Research & Technical Interests
+- **Network Resilience & Deep Packet Inspection (DPI):** Investigating traffic obfuscation techniques and firewall evasion logic to analyze how modern IDS/IPS systems identify and throttle protocols.
+- **Traffic Anomaly Detection:** Developing a DFA-based scoring engine with Machine Learning to identify irregularities in TCP/UDP streams and detect potential security threats.
+- **Privacy-Preserving Infrastructure:** Researching encrypted DNS protocols and proxy architectures to ensure secure and resilient communication in restrictive network environments.
+- **System Hardening:** Implementing kernel-level optimizations and debloating strategies for Linux and Android environments to minimize attack surfaces.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C, C++, Bash
+- **Networking/Security:** Firewall (iptables/nftables), DPI Analysis, Wireshark, Subnetting, Proxy Protocols
+- **Tools:** Git, Linux Core Utils, Android Debug Bridge (ADB)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lahmac-azz&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahmac-azz&layout=compact&theme=tokyonight)
