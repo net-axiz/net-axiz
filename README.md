@@ -1,34 +1,26 @@
-# 🛠️ System Architect & Network Researcher
+**Autonomous Systems & Network Researcher**
 
-### 🚀 The Hybrid Vision
-I am a dedicated student and developer focused on the intersection of **Systems Programming, Cloud Infrastructure, and Network Security**. My goal is to bridge the gap between academic research and industrial implementation.
+I am a computer systems and network researcher with a distinct focus on the intersection of low-level system architecture, autonomous networking, and cloud-native environments. Operating under a pseudonym, my focus is strictly on the code, the underlying architecture, and the empirical results. 
 
-- 🎓 **Academic Path:** Currently pursuing a B.Sc., with long-term goals for a Ph.D. in Systems/Networking.
-- 🛡️ **Core Interests:** Traffic analysis and kernel-level optimizations.
-- 🧬 **Secondary Focus:** Computational Biology and Bioinformatics.
+My strategy is built on a hybrid path: integrating production-grade industry standards with rigorous academic research. I advocate for local processing, edge computing, and granular system control, moving beyond high-level abstractions to understand how packets move, how kernels react, and how architectures scale.
 
----
+### Core Focus Areas & Current Work
+* **Autonomous Networking:** Architecting state-aware Intrusion Prevention Systems (IPS) that analyze TCP/UDP flows and autonomously block malicious patterns (e.g., port scans) using finite state automata and time-windowed heuristics.
+* **Cloud & Infrastructure:** Exploring Kubernetes to containerize and scale network tools, alongside integrating Model Context Protocol (MCP) for secure, local AI deployments.
+* **Low-Level & Hardware:** Working with C/C++ on embedded hardware limits and optimizing legacy systems to master hardware constraints.
+* **OS & Environment:** Daily driving and maintaining Linux distributions.
 
-### 🔍 Current Projects & Research
-- **Traffic Anomaly Detection:** Building a DFA-based scoring engine with Machine Learning to identify irregularities in TCP/UDP streams.
-- **Linux Tinkering:** Customizing `Ubuntu` environments and automating system debloating for performance and privacy.
+### Technical Arsenal
+* **Languages:** C, C++, Python
+* **Systems & Cloud:** Linux, Kubernetes, Local/Edge Computing AI Architectures
+* **Networking:** Flow Analysis, TCP/IP Stack, Autonomous Firewall Automation
 
----
-
-### 🔍 Research & Technical Interests
-- **Network Resilience & Deep Packet Inspection (DPI):** Investigating traffic obfuscation techniques and firewall evasion logic to analyze how modern IDS/IPS systems identify and throttle protocols.
-- **Traffic Anomaly Detection:** Developing a DFA-based scoring engine with Machine Learning to identify irregularities in TCP/UDP streams and detect potential security threats.
-- **Privacy-Preserving Infrastructure:** Researching encrypted DNS protocols and proxy architectures to ensure secure and resilient communication in restrictive network environments.
-- **System Hardening:** Implementing kernel-level optimizations and debloating strategies for Linux and Android environments to minimize attack surfaces.
 
 ---
-
-### 🛠️ Tech Stack
-- **Languages:** Python, C, C++, Bash
-- **Networking/Security:** Firewall (iptables/nftables), DPI Analysis, Wireshark, Subnetting, Proxy Protocols
-- **Tools:** Git, Linux Core Utils, Android Debug Bridge (ADB)
-
+*"Building systems that think locally, act autonomously, and scale globally."*
 ---
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lahmac-azz&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahmac-azz&layout=compact&theme=tokyonight)
