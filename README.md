@@ -17,7 +17,7 @@ My strategy is built on a hybrid path: integrating production-grade industry sta
 
 
 ---
-*"Building systems that think locally, act autonomously, and scale globally."*
+*"Without our thoughs humans just a blood and flesh systems."*
 ---
 
 
